@@ -1,3 +1,3 @@
 f='siddhath'
 print("Given string is :",f)
-print("value of t is :",f[-2])
+pritn("we are finding the -4 value in string :",f[-4])
